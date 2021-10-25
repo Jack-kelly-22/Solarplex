@@ -1,3 +1,9 @@
 [submodule "solarplex-gc/solarplex-gc/dolphin"]
 	path = solarplex-gc/dolphin
 	url = https://github.com/dolphin-emu/dolphin
+[submodule "solarplex-gc/metaplex"]
+	path = solarplex-gc/metaplex
+	url = https://github.com/metaplex-foundation/metaplex
+[submodule "solarplex-next/metaplex"]
+	path = solarplex-next/metaplex
+	url = https://github.com/metaplex-foundation/metaplex
